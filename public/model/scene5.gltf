@@ -1,0 +1,256 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 35665,
+      "max": [
+        1.3005210161209106,
+        1.7062749862670898,
+        0.8828200101852417
+      ],
+      "min": [
+        -1.2883529663085938,
+        -1.7901699542999268,
+        -0.95650798082351685
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 427980,
+      "componentType": 5126,
+      "count": 35665,
+      "max": [
+        0.99997961521148682,
+        0.99999880790710449,
+        0.99999892711639404
+      ],
+      "min": [
+        -0.99994015693664551,
+        -0.99998736381530762,
+        -0.9999922513961792
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 35665,
+      "max": [
+        0.99996566772460938,
+        0.99961239099502563,
+        0.99997705221176147,
+        1
+      ],
+      "min": [
+        -0.99982327222824097,
+        -0.99998486042022705,
+        -0.99999845027923584,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 35665,
+      "max": [
+        0.98893600702285767,
+        0.998757004737854
+      ],
+      "min": [
+        0.0024790000170469284,
+        0.0040870001539587975
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 194994,
+      "max": [
+        35664
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Minneapolis Institute of Art (https://sketchfab.com/artsmia)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/gui-food-vessel-10th-century-bce-12073fdefe544cf7ba86d946f9e9f3b8",
+      "title": "Gui Food Vessel, 10th Century BCE"
+    },
+    "generator": "Sketchfab-8.49.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 779976,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 285320,
+      "byteOffset": 779976,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 855960,
+      "byteOffset": 1065296,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 570640,
+      "byteOffset": 1921256,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2491896,
+      "uri": "scene5.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/150507_mia337_000830_1Mfaces_OBJ.003_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/150507_mia337_000830_1Mfaces_OBJ.003_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "150507_mia337_000830_1Mfaces_OBJ.003",
+      "normalTexture": {
+        "index": 1,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        -0.0058890834375957546,
+        0.15388944687908523,
+        0,
+        0,
+        -0.15388944687908523,
+        -0.0058890834375957546,
+        0,
+        0,
+        0,
+        0,
+        0.15400208532810211,
+        0,
+        -0.035601358860731125,
+        -0.049639489501714706,
+        0,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "150507_mia337_000830_64k_OBJ.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+

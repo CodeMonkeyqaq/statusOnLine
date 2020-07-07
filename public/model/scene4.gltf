@@ -1,0 +1,384 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.98857802152633667,
+        -4.9673581123352051,
+        2.0971460342407227
+      ],
+      "min": [
+        -1.8747110366821289,
+        -8.5594453811645508,
+        -1.971519947052002
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99997186660766602,
+        0.9998626708984375,
+        0.99996858835220337
+      ],
+      "min": [
+        -0.99999743700027466,
+        -0.99996435642242432,
+        -0.99993473291397095
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99544399976730347,
+        0.99621397256851196
+      ],
+      "min": [
+        0.0035159999970346689,
+        0.0031870000530034304
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 318636,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.8712639808654785,
+        -4.8223972320556641,
+        2.0997419357299805
+      ],
+      "min": [
+        -0.62400901317596436,
+        -8.5661630630493164,
+        -2.0005829334259033
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99996280670166016,
+        0.99999445676803589,
+        0.99999678134918213
+      ],
+      "min": [
+        -0.99990564584732056,
+        -0.99999731779098511,
+        -0.99997091293334961
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99513298273086548,
+        0.99662601947784424
+      ],
+      "min": [
+        0.003527000080794096,
+        0.0031139999628067017
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1274544,
+      "componentType": 5125,
+      "count": 313548,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 47192,
+      "max": [
+        1.9947299957275391,
+        -4.8320298194885254,
+        2.0362350940704346
+      ],
+      "min": [
+        -1.8221180438995361,
+        -8.5671749114990234,
+        -1.9662220478057861
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3711840,
+      "componentType": 5126,
+      "count": 47192,
+      "max": [
+        0.99999290704727173,
+        0.99973881244659424,
+        0.99987292289733887
+      ],
+      "min": [
+        -0.99997937679290771,
+        -0.99999582767486572,
+        -0.99991375207901001
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 47192,
+      "max": [
+        0.99553000926971436,
+        0.99619597196578979
+      ],
+      "min": [
+        -0.0018960000015795231,
+        0.0046339998953044415
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2528736,
+      "componentType": 5125,
+      "count": 164283,
+      "max": [
+        47191
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "The Royal Museums of Art and History (https://sketchfab.com/kmkg-mrah)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/globular-vase-with-cylindrical-neck-5e2b34b03faa40d3821e53b11929c0fd",
+      "title": "Globular vase with cylindrical neck"
+    },
+    "generator": "Sketchfab-8.72.3",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 3185868,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1426048,
+      "byteOffset": 3185868,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4278144,
+      "byteOffset": 4611916,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 8890060,
+      "uri": "scene4.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/3D_Model_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "3D_Model",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        -0.12497852742671967,
+        -6.8597873905673623e-05,
+        0.0023156693205237389,
+        0,
+        1.3552527156068805e-20,
+        0.12494518607854843,
+        0.0037012945394963026,
+        0,
+        -0.0023166851606220007,
+        0.0037006586790084839,
+        -0.12492372840642929,
+        0,
+        0.12093114107847214,
+        -0.0043704835698008537,
+        0.2962556779384613,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5
+      ],
+      "name": "3D Model.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+

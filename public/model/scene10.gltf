@@ -1,0 +1,292 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1317,
+      "max": [
+        0.72473430633544922,
+        0.033847920596599579,
+        0.05687921866774559
+      ],
+      "min": [
+        -0.18525609374046326,
+        -0.033847920596599579,
+        -0.15813389420509338
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 15804,
+      "componentType": 5126,
+      "count": 1317,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -0.99999958276748657,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1317,
+      "max": [
+        0.9999498724937439,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -0.99796193838119507,
+        -1,
+        -1,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1317,
+      "max": [
+        0.99550247192382812,
+        0.9968218207359314
+      ],
+      "min": [
+        0.0030686850659549236,
+        0.0030755989719182253
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 6000,
+      "max": [
+        1316
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Arnold Konrad (https://sketchfab.com/akonrad)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/willow-leaf-saber-liu-ye-dao-fcab57f916cc456f8d114f7027644033",
+      "title": "Willow Leaf Saber (Liu Ye Dao)"
+    },
+    "generator": "Sketchfab-8.70.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 24000,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10536,
+      "byteOffset": 24000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31608,
+      "byteOffset": 34536,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21072,
+      "byteOffset": 66144,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 87216,
+      "uri": "scene10.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Sword_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Sword_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Sword_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": false,
+      "name": "Sword",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Sword-material",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.85747009515762329,
+        0,
+        -0.51453381776809692,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0.51453381776809692,
+        0,
+        0.85747009515762329,
+        0,
+        0.026255181059241295,
+        0,
+        0.14354369044303894,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Collada visual scene group"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.9509746,
+        -4.1553000000000002e-08,
+        0.30926900000000002,
+        0,
+        4.1553000000000002e-08,
+        1,
+        6.5869999999999997e-09,
+        0,
+        -0.30926900000000002,
+        6.5869899999999998e-09,
+        0.9509746,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Liu"
+    },
+    {
+      "mesh": 0,
+      "name": "Sword-material"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
